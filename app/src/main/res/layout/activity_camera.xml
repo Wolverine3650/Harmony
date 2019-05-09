@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".CameraActivity">
+
+    <ImageView
+        android:id="@+id/imageCapture"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="@drawable/photographer"
+        android:paddingBottom="22sp" />
+
+    <Button
+        android:id="@+id/btn_captureImage"
+        android:layout_width="381dp"
+        android:layout_height="112dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_layout"
+        android:padding="22sp"
+        android:text="Capture NOW"
+        android:textColor="#fff5"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

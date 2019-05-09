@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996663725327",
+    "firebase_url": "https://student-management-syste-fb190.firebaseio.com",
+    "project_id": "student-management-syste-fb190",
+    "storage_bucket": "student-management-syste-fb190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996663725327:android:7b242309a52f3743",
+        "android_client_info": {
+          "package_name": "com.example.sandjmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996663725327-30k2puonrolvdrkh88mksubdl7urqnkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandjmusic",
+            "certificate_hash": "379a0032c787f0b1d446f068f67fb2150eb5b300"
+          }
+        },
+        {
+          "client_id": "996663725327-l8ip4to073ne4cnuoujlgtd9hdu4ohsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAbcaGCEJNykdWdJeMYlACcA2cZzh4S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996663725327-l8ip4to073ne4cnuoujlgtd9hdu4ohsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
